@@ -17,9 +17,6 @@ Driven by curiosity and a love for continuous learning, I enjoy exploring new te
 ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChayaZak&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChayaZak&layout=compact&theme=radical&hide_border=true)
 
 ## 🚀 Featured Projects
 - **Tefillin Distribution System** - Full stack web application for managing tefillin distribution to IDF soldiers
