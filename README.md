@@ -34,7 +34,7 @@ Driven by curiosity and a love for continuous learning, I enjoy exploring new te
 I'm excited to join a collaborative team where I can contribute to meaningful projects, continue learning, and grow alongside experienced developers. Eager to bring my skills and fresh perspective to help build amazing products.
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaya-zak)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaya-zak-8b3b91379/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chayazak44@gmail.com)
 
 ---
